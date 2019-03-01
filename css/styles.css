@@ -41,10 +41,11 @@ body {
   border-top-width: 10px;
 }
 
-/*.step-2 .triangle-demo {
+.step-2 .triangle-demo {
   border-left-width: 10px;
 }
-.step-3 .triangle-demo {
+
+/*.step-3 .triangle-demo {
   border-right-width: 10px;
 }
 .step-4 .triangle-demo {
