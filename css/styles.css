@@ -49,10 +49,11 @@ body {
   border-right-width: 10px;
 }
 
-/*.step-4 .triangle-demo {
+.step-4 .triangle-demo {
   border-bottom-width: 10px;
 }
-.step-6 .triangle-demo {
+
+/*.step-6 .triangle-demo {
   background: transparent;
 }
 .step-7 .triangle-demo {
