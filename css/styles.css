@@ -108,10 +108,11 @@ body {
   opacity: 1;
 }
 
-/*.step-1 .steps .step-1 {
+.step-1 .steps .step-1 {
   opacity: 1;
 }
-.step-2 .steps .step-2 {
+
+/*.step-2 .steps .step-2 {
   opacity: 1;
 }
 .step-5 .steps .step-5 {
