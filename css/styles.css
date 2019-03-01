@@ -66,10 +66,11 @@ body {
   border-left-color: transparent;
 }
 
-/*.step-9 .triangle-demo {
+.step-9 .triangle-demo {
   border-right-color: transparent;
 }
-.step-10 .triangle-demo {
+
+/*.step-10 .triangle-demo {
   border-top-color: transparent;
 }
 
