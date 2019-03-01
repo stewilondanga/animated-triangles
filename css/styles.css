@@ -37,10 +37,11 @@ body {
   transition: 0.8s 0.2s;
 }
 
-/*.step-1 .triangle-demo {
+.step-1 .triangle-demo {
   border-top-width: 10px;
 }
-.step-2 .triangle-demo {
+
+/*.step-2 .triangle-demo {
   border-left-width: 10px;
 }
 .step-3 .triangle-demo {
