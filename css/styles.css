@@ -45,10 +45,11 @@ body {
   border-left-width: 10px;
 }
 
-/*.step-3 .triangle-demo {
+.step-3 .triangle-demo {
   border-right-width: 10px;
 }
-.step-4 .triangle-demo {
+
+/*.step-4 .triangle-demo {
   border-bottom-width: 10px;
 }
 .step-6 .triangle-demo {
