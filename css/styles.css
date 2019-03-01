@@ -53,10 +53,11 @@ body {
   border-bottom-width: 10px;
 }
 
-/*.step-6 .triangle-demo {
+.step-6 .triangle-demo {
   background: transparent;
 }
-.step-7 .triangle-demo {
+
+/*.step-7 .triangle-demo {
   width: 0;
   height: 0;
 }
