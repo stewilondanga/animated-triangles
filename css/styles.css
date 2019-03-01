@@ -132,11 +132,11 @@ body {
   opacity: 1;
 }
 
-/*.step-11 .steps .step-11 {
+.step-11 .steps .step-11 {
   opacity: 1;
 }
 
-h1 {
+/*h1 {
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 1.5rem;
