@@ -25,7 +25,7 @@ body {
   height: 1.5em;
 }
 
-/*.triangle-demo {
+.triangle-demo {
   width: 100px;
   height: 100px;
   margin: 0 auto;
@@ -36,7 +36,8 @@ body {
   border-right: 0 solid #8DB434;
   transition: 0.8s 0.2s;
 }
-.step-1 .triangle-demo {
+
+/*.step-1 .triangle-demo {
   border-top-width: 10px;
 }
 .step-2 .triangle-demo {
