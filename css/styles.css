@@ -74,7 +74,7 @@ body {
   border-top-color: transparent;
 }
 
-/*.triangle-title {
+.triangle-title {
   width: 300px;
   padding: 1rem;
   color: white;
@@ -84,7 +84,8 @@ body {
   opacity: 0;
   transition: 0.8s 0.2s;
 }
-.step-11 .triangle-title {
+
+/*.step-11 .triangle-title {
   opacity: 1;
 }
 
