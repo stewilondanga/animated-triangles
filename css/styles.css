@@ -1,5 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Andika);
 
+body {
+  background: #333;
+  font-family: 'Andika', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: large;
+  transform: translateZ(0);
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -77,14 +86,6 @@
   opacity: 1;
 }
 
-body {
-  background: #333;
-  font-family: 'Andika', sans-serif;
-  color: white;
-  text-align: center;
-  font-size: large;
-  transform: translateZ(0);
-}
 
 .steps {
   position: relative;
