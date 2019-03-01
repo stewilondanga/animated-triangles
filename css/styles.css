@@ -89,11 +89,12 @@ body {
   opacity: 1;
 }
 
-/*.steps {
+.steps {
   position: relative;
   height: 45px;
 }
-.steps > div {
+
+/*.steps > div {
   position: absolute;
   top: 0;
   left: 0;
