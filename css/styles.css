@@ -104,10 +104,11 @@ body {
   transition: 0.3s;
 }
 
-/*.steps .step-0 {
+.steps .step-0 {
   opacity: 1;
 }
-.step-1 .steps .step-1 {
+
+/*.step-1 .steps .step-1 {
   opacity: 1;
 }
 .step-2 .steps .step-2 {
