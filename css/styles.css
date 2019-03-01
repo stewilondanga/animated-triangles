@@ -70,11 +70,11 @@ body {
   border-right-color: transparent;
 }
 
-/*.step-10 .triangle-demo {
+.step-10 .triangle-demo {
   border-top-color: transparent;
 }
 
-.triangle-title {
+/*.triangle-title {
   width: 300px;
   padding: 1rem;
   color: white;
