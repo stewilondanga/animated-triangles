@@ -94,7 +94,7 @@ body {
   height: 45px;
 }
 
-/*.steps > div {
+.steps>div {
   position: absolute;
   top: 0;
   left: 0;
@@ -103,7 +103,8 @@ body {
   background: #333;
   transition: 0.3s;
 }
-.steps .step-0 {
+
+/*.steps .step-0 {
   opacity: 1;
 }
 .step-1 .steps .step-1 {
